@@ -1,0 +1,2 @@
+# exerciciospythonestruturado
+Exercício avaliativo
